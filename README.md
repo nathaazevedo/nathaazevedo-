@@ -15,8 +15,10 @@
 
 ## 📊 GitHub Stats
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nathaazevedo&show_icons=true&theme=default)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=nathaazevedo&layout=compact&theme=default)
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaazevedo&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathaazevedo&layout=compact&theme=default&hide_border=true" />
+</p>
 
 ---
 
