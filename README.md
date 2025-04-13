@@ -1,18 +1,8 @@
-# 👋 Olá, eu sou o Nathã Azevedo
+# 👋 Hi, I'm Nathã Azevedo
 
-Sou um desenvolvedor apaixonado por tecnologia, especializado em backend com C# e .NET/.NET Core. Gosto de escrever código limpo, criar APIs eficientes e pensar em arquitetura de software de um jeito prático e escalável.
+Backend developer specialized in C# and .NET Core, focused on clean code, efficient APIs, and scalable architecture.
 
-💼 Engenheiro de Software  
-📚 Sempre aprendendo algo novo
-
----
-
-## 🚀 Tecnologias e Ferramentas
-
-- **Linguagens:** C#, JavaScript
-- **Frameworks:** .NET, .NET Core
-- **Conceitos:** Clean Architecture, Autenticação JWT
-- **Ferramentas:** Git, GitHub
+📚 Always learning something new
 
 ---
 
@@ -51,8 +41,7 @@ Sou um desenvolvedor apaixonado por tecnologia, especializado em backend com C# 
 </div>
 
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathaazevedo/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nathaazevedo)
-
